@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Interlligence**
 
-- 👨‍💻 All of my projects are available at [https://saadbinkhalid.vercel.app](https://saadbinkhalid.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://saadbinkhalid.vercel.app](Saadbinkhalid)
 
 - 💬 Ask me about **React,Angular,Express,Django**
 
