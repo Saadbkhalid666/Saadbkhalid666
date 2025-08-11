@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Interlligence**
 
-- 👨‍💻 All of my projects are available at [Saadbinkhalid](https://saadbinkhalid.vercel.app/)
+- 👨‍💻 All of my projects are available at [sbkdev.vercel.app](sbkdev.vercel.app)
 
 - 💬 Ask me about **React,Angular,Express,Django**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/saadrajpoot666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saadrajpoot666" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saadbkhalid666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saadbkhalid666" height="30" width="40" /></a>
-<a href="https://instagram.com/saad.dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagit_saad" height="30" width="40" /></a>
+<a href="https://instagram.com/saad.dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saad.dev_" height="30" width="40" /></a>
 <a href="https://discord.gg/saadbinkhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="saadbinkhalid" height="30" width="40" /></a>
 </p>
 
