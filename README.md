@@ -54,20 +54,7 @@ I'm a **Full Stack Engineer from Lahore, Pakistan**, building fast, scalable, pr
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,50:a855f7,100:ec4899&height=2&width=100%25" width="100%"/>
 
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saadbkhalid666&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=ec4899&text_color=c9d1d9&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=saadbkhalid666&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadbkhalid666&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=saadbkhalid666&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" width="49%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4f46e5,50:a855f7,100:ec4899&height=2&width=100%25" width="100%"/>
-
+ 
 ## 🐍 Contribution Snake
 
 <div align="center">
