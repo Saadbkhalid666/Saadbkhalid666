@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:a855f7,100:ec4899&height=220&section=header&text=Saad%20Bin%20Khalid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20MERN%20%2B%20AI%20Integrations&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:a855f7,100:ec4899&height=220&section=header&text=Saad%20Bin%20Khalid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://saadbinkhalid.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-saadbinkhalid.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -25,7 +25,8 @@
 
 <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=saadbkhalid666&bg_color=0d1117&color=c9d1d9&line=a855f7&point=ec4899&area_color=a855f7&area=true&hide_border=true&height=280" width="42%"/>
 
-I'm a **Full Stack Engineer from Lahore, Pakistan**, building fast, production-ready web applications with the **MERN stack** — React, Next.js, Node.js, Express.js, MongoDB, and TypeScript.
+I'm a **Full Stack Engineer from Lahore, Pakistan**, building fast, scalable, production-ready web applications using modern technologies like **React, Next.js, Angular, Node.js, Express.js, Python, Django, Flask** and more.
+
 
 - 🔭 Currently freelancing across **Fiverr** and **LinkedIn**, shipping full-stack, frontend, and backend projects for real clients
 - ⚡ Beyond the standard stack, I build with **AI integrations**, **real-time systems (Socket.IO)**, and **cross-platform mobile (React Native)**
