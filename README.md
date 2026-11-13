@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:a855f7,100:ec4899&height=220&section=header&text=Saad%20Bin%20Khalid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000,50:020403,100:29231d&height=220&section=header&text=Saad%20Bin%20Khalid&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://saadbinkhalid.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-saadbinkhalid.vercel.app-a855f7?style=for-the-badge&logo=vercel&logoColor=white" />
